@@ -17,7 +17,7 @@ This repository contains a template to use for your final project. Keep reading 
 
 - Use this template to start your Operator Academy project.
 - `npm install` and `npm start` to run the project.
-- Push your changes to your own GitHub repository, and submit the assignment in the Operator Console **by August 25th**.
+- Push your changes to your own GitHub repository, and submit the assignment in the Operator Console **by December 17th**.
 
 ## The project template
 
